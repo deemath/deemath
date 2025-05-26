@@ -9,11 +9,10 @@
   <img src="https://img.shields.io/badge/Status-Engineering_Excellence-00FFFF?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
 
 ### 🧠 About Me
 
-```txt
+
 🔭 I’m Deemath Jayasinghe, a full-stack developer and software designer from Sri Lanka.
 🧠 Obsessed with solving real-world problems through futuristic systems and clean architecture.
 🚀 Exploring AI-integrated web systems and advanced Laravel applications.
@@ -21,9 +20,7 @@
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,react,mysql,html,css,vscode,git" /> </p>
 ⚡ Projects Preview
-markdown
-Copy
-Edit
+
 🚰 Water Distribution Management System - AI powered resource optimization  
 📚 Smart Student Portal - With real-time progress tracking & task automation  
 🚀 SpeedoMap - Biker Speedometer app with map & alerts  
