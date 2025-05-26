@@ -1,55 +1,36 @@
-<h1 align="center">Hi there, I'm Deemath Jayasinghe 👋</h1>
+<!-- Futuristic Profile README for Deemath Jayasinghe -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hello+World%2C+I'm+Deemath+Jayasinghe;Futuristic+Coder+%7C+AI+Enthusiast+%7C+Tech+Architect" alt="Typing animation" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&width=435&lines=Software+Engineer;Web+%7C+Mobile+%7C+AI+Developer;Tech+Explorer+%F0%9F%9A%80;Always+learning+new+things..." alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Code-Futuristic-blueviolet?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Engineering_Excellence-00FFFF?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 💼 About Me
+### 🧠 About Me
 
-- 🎓 Undergraduate | Passionate about building scalable apps & platforms  
-- 🧠 Focus areas: Web Development | AI | Mobile Apps | IoT  
-- 🛠️ Currently working on: `Student Project Management Platform`  
-- 📫 How to reach me: `dimuthudeemath@gmail.com`
-
----
-
-### 🛠️ Languages and Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deemath&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deemath&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deemath&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimuthudeemath@gmail.com)
-
----
-
-### ⚡ Fun Facts
-
-- 🧩 Love solving real-world problems through tech  
-- 🎮 Big fan of Open Source
+```txt
+🔭 I’m Deemath Jayasinghe, a full-stack developer and software designer from Sri Lanka.
+🧠 Obsessed with solving real-world problems through futuristic systems and clean architecture.
+🚀 Exploring AI-integrated web systems and advanced Laravel applications.
+🎯 Mission: Build tech that empowers people, intelligently.
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,react,mysql,html,css,vscode,git" /> </p>
+⚡ Projects Preview
+markdown
+Copy
+Edit
+🚰 Water Distribution Management System - AI powered resource optimization  
+📚 Smart Student Portal - With real-time progress tracking & task automation  
+🚀 SpeedoMap - Biker Speedometer app with map & alerts  
+📡 Smart Car Booking System - With predictive maintenance & chat AI  
+📊 My GitHub Universe
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deemath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" width="47%" /> <img src="https://streak-stats.demolab.com/?user=deemath&theme=tokyonight&hide_border=true" width="47%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deemath&theme=react-dark&hide_border=true" /> </p>
+🌐 Connect with Me
+<p align="center"> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+🚀 Code the future, live the dream.
+🧬 Designed by Deemath Jayasinghe
