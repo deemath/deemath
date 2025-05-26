@@ -28,6 +28,6 @@
 📊 My GitHub Universe</br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deemath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" width="47%" /> <img src="https://streak-stats.demolab.com/?user=deemath&theme=tokyonight&hide_border=true" width="47%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deemath&theme=react-dark&hide_border=true" /> </p>
 🌐 Connect with Me
-<p align="center"> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="www.linkedin.com/in/dijay"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
-🚀 Code the future, live the dream.
+<p align="center"> <a href="mailto:mahazona.sl@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="www.linkedin.com/in/dijay"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+🚀 Code the future, live the dream. </br>
 🧬 Designed by Deemath Jayasinghe
