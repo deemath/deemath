@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 
-🔭 I’m Deemath Jayasinghe, a full-stack developer and software designer from Sri Lanka. </br>
+🔭 I’m Deemath Jayasinghe, a full-stack developer & Cyber Security Enthusiast from Sri Lanka. </br>
 🧠 Obsessed with solving real-world problems through futuristic systems and clean architecture. </br>
 🚀 Exploring AI-integrated web systems and advanced Laravel applications. </br>
 🎯 Mission: Build tech that empowers people, intelligently.</br>
@@ -24,6 +24,7 @@
   🚰 Water Distribution Management System - AI powered resource optimization  </br>
   📚 Smart Student Portal - With real-time progress tracking & task automation  </br>
   🚀 SpeedoMap - Biker Speedometer app with map & alerts  </br>
+  🕵️‍♂️ Google-doky - A simple python script for generate google hacking dorks for passive information gathering  </br>
   📡 Smart Car Booking System - With predictive maintenance & chat AI  </br></br>
 📊 My GitHub Universe</br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deemath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" width="47%" /> <img src="https://streak-stats.demolab.com/?user=deemath&theme=tokyonight&hide_border=true" width="47%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deemath&theme=react-dark&hide_border=true" /> </p>
