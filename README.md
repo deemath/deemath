@@ -16,7 +16,7 @@
 🔭 I’m Deemath Jayasinghe, a full-stack developer & Cyber Security Enthusiast from Sri Lanka. </br>
 🧠 Obsessed with solving real-world problems through futuristic systems and clean architecture. </br>
 🚀 Exploring AI-integrated web systems and advanced Laravel applications. </br>
-🎯 Mission: Build tech that empowers people, intelligently.</br>
+
 🛠️ Tech Stack</br>
 <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,react,mysql,html,css,vscode,git" /> </p>
 ⚡ Projects Preview</br></br>
