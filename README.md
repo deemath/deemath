@@ -21,10 +21,10 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,react,mysql,html,css,vscode,git" /> </p>
 ⚡ Projects Preview</br></br>
 
-  🚰 Water Distribution Management System - AI powered resource optimization  </br>
+  🕵️‍♂️ Google-doky - A simple python script for generate google hacking dorks for passive information gathering  </br>
+  🚰 Water Billing & Management System   </br>
   📚 Smart Student Portal - With real-time progress tracking & task automation  </br>
   🚀 SpeedoMap - Biker Speedometer app with map & alerts  </br>
-  🕵️‍♂️ Google-doky - A simple python script for generate google hacking dorks for passive information gathering  </br>
   📡 Smart Car Booking System - With predictive maintenance & chat AI  </br></br>
 📊 My GitHub Universe</br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deemath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" width="47%" /> <img src="https://streak-stats.demolab.com/?user=deemath&theme=tokyonight&hide_border=true" width="47%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deemath&theme=react-dark&hide_border=true" /> </p>
