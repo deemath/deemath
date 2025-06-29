@@ -18,7 +18,7 @@
 🚀 Exploring AI-integrated web systems and advanced Laravel applications. </br>
 
 🛠️ Tech Stack</br>
-<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,java,javascript,react,mysql,html,css,vscode,git" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,typescript,nextjs,php,laravel,java,javascript,react,mysql,html,css,vscode,git" /> </p>
 ⚡ Projects Preview</br></br>
 
   🕵️‍♂️ Google-doky - A simple python script for generate google hacking dorks for passive information gathering  </br>
