@@ -1,4 +1,4 @@
-<h2> Hi !!</h2> </br> <h3> I'm Just a another human being</h3> 
+<h2> Hi !!</h2> </br> <p> I'm Just a another human being</p> 
 
 
 <!--
