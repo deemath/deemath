@@ -1,6 +1,6 @@
 <!--
 
-<!-- Futuristic Profile README for Deemath Jayasinghe -->
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hello+World%2C+I'm+Deemath+Jayasinghe;Futuristic+Coder+%7C+AI+Enthusiast+%7C+Tech+Architect" alt="Typing animation" />
